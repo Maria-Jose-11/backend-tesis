@@ -22,7 +22,7 @@ class AuthController extends Controller
         if (!$user || !$user->state ||
             !Hash::check($request['password'], $user->password))
             {
-                return $this->sendResponse(message: 'Las cccredenciales ingresadas son incorrectas.', code: 404);
+                return $this->sendResponse(message: 'Las credenciales ingresadas son incorrectas.', code: 404);
             }
 
         if (!$user->tokens->isEmpty())
