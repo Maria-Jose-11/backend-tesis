@@ -16,12 +16,13 @@ class UserResource extends JsonResource
     {
         // https://laravel.com/docs/9.x/eloquent-resources#introduction
         return [
-            //'username' => $this->username,
-            'full_name' => $this->getFullName(),
-            'email' => $this->email,
-            'tipo_usuario_id' => $this->tipoUsuario->nombre,
-            //'home_phone' => $this->home_phone,
-            //'personal_phone' => $this->personal_phone,
+            'id' => $this->id,
+            'Nombre' => $this->getFullName(),
+            'Correo' => $this->email,
+            'Rol' => $this->tipoUsuario->nombre,
+            'Teléfono' => $this->personal_phone,
+            'LinkedIn' => $this->linkedin,
+            'Estado' => $this->state,
         ];
 
 

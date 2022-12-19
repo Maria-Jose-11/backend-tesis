@@ -27,6 +27,19 @@ class DatabaseSeeder extends Seeder
             'email' => 'majo@gmail.com',
             'password' => bcrypt('secret'),
             'tipo_usuario_id' => '1',
+            'linkedin' => 'https://linkedin.majo.com',
+            'personal_phone' => '0999999999',
+
+        ]);
+
+        DB::table('users')->insert([
+            'first_name' => 'Eduardo',
+            'last_name' => 'Farinango',
+            'email' => 'eduardo@gmail.com',
+            'password' => bcrypt('secret'),
+            'tipo_usuario_id' => '1',
+            'linkedin' => 'https://linkedin.eduardo.com',
+            'personal_phone' => '0999999998',
 
         ]);
 

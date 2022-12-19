@@ -10,6 +10,7 @@ use Illuminate\Support\Facades\Hash;
 
 class AuthController extends Controller
 {
+    private $discarded_role_names = ['visitantes'];
     public function login(Request $request)
     {
         $request -> validate([
@@ -19,7 +20,7 @@ class AuthController extends Controller
 
         $user = User::where('email', $request['email'])->first();
 
-        if (!$user || !$user->state ||
+        if (!$user || !$user->state || in_array($user->tipoUsuario->nombre, $this->discarded_role_names) ||
             !Hash::check($request['password'], $user->password))
             {
                 return $this->sendResponse(message: 'Las credenciales ingresadas son incorrectas.', code: 404);

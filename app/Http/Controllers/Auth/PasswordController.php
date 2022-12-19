@@ -12,7 +12,7 @@ use Illuminate\Auth\Events\PasswordReset;
 class PasswordController extends Controller
 {
 
-    // Función para el manejo del reseteo de contraseña
+    // Función para el módulo de recuperación de contraseña
     public function resendLink(Request $request)
     {
         // Validación de los datos de entrada
@@ -64,16 +64,11 @@ class PasswordController extends Controller
         // Función para cambiar el password
         $status = Password::reset($validated, function ($user , $password)
         {
-            // Establece el nuevo password
-            // https://laravel.com/docs/9.x/hashing#hashing-passwords
             $user->password = Hash::make($password);
-            // Grabar los cambios
             $user->save();
-            // https://laravel.com/docs/9.x/passwords#password-reset-handling-the-form-submission
-            event(new PasswordReset($user)); // Actualizar la contraseña en tiempo real
+            event(new PasswordReset($user)); 
         });
 
-        // Se invoca a la función padre
         return $status == Password::PASSWORD_RESET
             ? $this->sendResponse(__($status))
             : $this->sendResponse(
@@ -83,21 +78,16 @@ class PasswordController extends Controller
             );
     }
 
-
-    // Función para actualizar el password del suuario
     public function update(Request $request)
     {
-        // Validación de los datos de entrada
         $validated = $request -> validate([
         'password' => ['required', 'string', 'confirmed',
-                        // https://laravel.com/docs/9.x/validation#validating-passwords
                         PasswordValidator::defaults()->mixedCase()->numbers()->symbols()]]);
 
         $user = $request->user();
-        // https://laravel.com/docs/9.x/hashing#hashing-passwords
         $user->password = Hash::make($validated['password']);
         $user->save();
-        return $this->sendResponse('Password updated successfully');
+        return $this->sendResponse('Contraseña actualizada correctamente');
     }
 
 

@@ -22,17 +22,13 @@ class UserFactory extends Factory
     public function definition()
     {
         return [
-            //'role_id'=>$this->faker->randomElement([1,2,3,4]),
             'first_name' => $this->faker->firstName(),
             'last_name' => $this->faker->lastName(),
-            //'username' => $this->faker->name(),
-            //'personal_phone' => '09' . $this->faker->randomNumber(8),
-            //'home_phone' => '02' . $this->faker->randomNumber(7),
-            //'address' => $this->faker->streetAddress,
             'password' => Hash::make('secret'),
             'email' => $this->faker->unique()->safeEmail(),
-            //'birthdate' => $this->faker->dateTimeBetween('-50 years', 'now'),
             'email_verified_at' => now(),
+            'personal_phone' => '09' . $this->faker->randomNumber(8),
+            'linkedin' => 'https://linkedin.' . $this->faker->firstName() . '.com',
             'remember_token' => Str::random(10),
         ];
     }

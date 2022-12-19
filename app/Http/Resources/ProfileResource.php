@@ -17,13 +17,15 @@ class ProfileResource extends JsonResource
         // Se procede a definir la estructura de la respuesta de la petición
         // https://laravel.com/docs/9.x/eloquent-resources#introduction
         return [
-            //'username' => $this->username,
-            'first_name' => $this->first_name,
-            'last_name' => $this->last_name,
-            'email' => $this->email,
-            //'birthdate' => $this->birthdate,
-            //'home_phone' => $this->home_phone,
-            //'personal_phone' => $this->personal_phone,
+            //'username' => $this->username
+            'id' => $this->id,
+            'Nombre' => $this->first_name,
+            'Apellido' => $this->last_name,
+            'Correo' => $this->email,
+            'Rol' => $this->tipoUsuario->nombre,
+            'Telefono' => $this->personal_phone,
+            'Linkedin' => $this->linkedin,
+            'Estado' => $this->state,
             //'address' => $this->address,
         ];
 

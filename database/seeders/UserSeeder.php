@@ -17,12 +17,12 @@ class UserSeeder extends Seeder
     public function run()
     {
         //administrador
-        $administrador = Tipo_usuario::where('nombre', 'superadmin')->first();
-        User::factory()->for($administrador)->count(5)->create();
+        $superadmin = Tipo_usuario::where('nombre', 'superadmin')->first();
+        User::factory()->for($superadmin)->count(5)->create();
 
         //miembro de la comisión 
-        $miembro_comision = Tipo_usuario::where('nombre', 'admin')->first();
-        User::factory()->for($miembro_comision)->count(5)->create();
+        $admin = Tipo_usuario::where('nombre', 'admin')->first();
+        User::factory()->for($admin)->count(5)->create();
 
         //PENDIENTE
         // $otro = Tipo_usuario::where('name', 'otro')->first();

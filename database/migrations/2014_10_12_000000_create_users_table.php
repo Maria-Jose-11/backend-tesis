@@ -21,11 +21,9 @@ return new class extends Migration
             $table->string('password');
             $table->boolean('state')->default(true);
             $table->string('email')->unique();
-            //$table->string('username', 50)->unique();
-            //$table->string('home_phone', 9)->nullable();
             $table->timestamp('email_verified_at')->nullable();
-
-            // columnas especiales para la tabla de la BDD
+            $table->string('personal_phone', 10)->nullable();
+            $table->string('linkedin', 100)->nullable();
             $table->rememberToken();
             $table->timestamps();
             
