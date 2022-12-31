@@ -7,7 +7,7 @@ use App\Http\Controllers\Users\AdminController;
 use App\Http\Controllers\Users\SuperadminController;
 use Illuminate\Support\Facades\Route;
 
-Route::prefix('v1')->group(function ()
+Route::prefix('empre')->group(function ()
 {
     // Hacer uso del archivo auth.php
     require __DIR__ . '/auth.php';
@@ -36,7 +36,7 @@ Route::prefix('v1')->group(function ()
                 Route::get('/{user}/destroy', 'destroy');
             });
         }); 
-        
+
 
         Route::prefix("admin")->group(function ()
         {
