@@ -20,7 +20,8 @@ class TipoUsuarioSeeder extends Seeder
         for($i=0 ; $i<2 ; $i++)
         {
             Tipo_usuario::create([
-                'nombre' => $rols[$i]
+                'nombre' => $rols[$i],
+                'slug' => $rols[$i],
             ]);
         }
     }

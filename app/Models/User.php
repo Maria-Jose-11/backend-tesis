@@ -25,6 +25,8 @@ class User extends Authenticatable
         'last_name',
         'email',
         'password',
+        'linkedin',
+        'personal_phone',
     ];
 
     /**
@@ -83,7 +85,20 @@ class User extends Authenticatable
         return $this->image->path;
     }
     
-    
+    public function emprendimientos()
+    {
+        return $this->hasMany(Emprendimiento::class);
+    }
+
+        // Función para saber si el rol que tiene asignado el usuario
+    // es el mismo que se le esta pasando a la función
+    // https://laravel.com/docs/9.x/eloquent-relationships#one-to-many
+    public function hasRole(string $tipoUsuario_slug)
+    {
+        return $this->tipoUsuario->slug === $tipoUsuario_slug;
+    }
+
+
 
     
     
