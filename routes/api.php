@@ -35,7 +35,8 @@ Route::prefix('v1')->group(function ()
                 Route::post('/{user}/update', 'update');
                 Route::get('/{user}/destroy', 'destroy');
             });
-        });
+        }); 
+        
 
         Route::prefix("admin")->group(function ()
         {
