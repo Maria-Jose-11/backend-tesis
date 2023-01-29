@@ -49,14 +49,14 @@ class EmprendimientoController extends Controller
         $emprendimiento = new Emprendimiento($emprendimiento_data);
         $emprendimiento->save();
 
-        // if ($request->has('image'))
-        // {
-        //     $uploadedFileUrl = Cloudinary::upload($request->file('image')
-        //     ->getRealPath(),['folder'=>'emprendimientos'])
-        //     ->getSecurePath();
+        if ($request->has('image'))
+        {
+             $uploadedFileUrl = Cloudinary::upload($request->file('image')
+             ->getRealPath(),['folder'=>'emprendimientos'])
+             ->getSecurePath();
 
-        //     $emprendimiento->attachImage($uploadedFileUrl);
-        // }
+             $emprendimiento->attachImage($uploadedFileUrl);
+        }
 
         return $this->sendResponse(message: 'Datos de emprendimiento almacenados exitosamente');
     }
