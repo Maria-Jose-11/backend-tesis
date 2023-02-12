@@ -4,7 +4,6 @@
         <br>
         <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
         <br>
-        Componente BACKEND
     </h1> 
     <p align="center">Elaborado por: María José Chalá</p>
  </p>
