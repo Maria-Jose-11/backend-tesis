@@ -5,6 +5,7 @@
         <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
         <br>
         Componente BACKEND
-         <p align="center">Elaborado por: María José Chalá</p>
-    </h1>  
+    </h1> 
+    <p align="center">Elaborado por: María José Chalá</p>
+ </p>
 
