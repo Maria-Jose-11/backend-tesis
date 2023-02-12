@@ -8,6 +8,10 @@
     <p align="center">Elaborado por: María José Chalá</p>
  </p>
 
-## HERRAMIENTAS
-
-## TÍTULO 2
+## PERFILES DE USUARIO
+<br>
+<br>
+## MÉTODOS Y FUNCIONALIDADES
+<br>
+<br>
+## TÍTULO ...
