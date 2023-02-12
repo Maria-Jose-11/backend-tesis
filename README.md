@@ -4,9 +4,9 @@
         <br>
         <br>
         Componente BACKEND
+        <br>
+        <p align="center">Elaborado por: María José Chalá</p>
     </h1>
-    <br>
-    <p align="center">Elaborado por: María José Chalá</p>
 </p>
 
 
