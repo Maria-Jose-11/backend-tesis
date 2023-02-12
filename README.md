@@ -5,7 +5,6 @@
         <br>
         Componente BACKEND
     </h1>
-    
     <br>
     <p align="center">Elaborado por: María José Chalá</p>
 </p>
