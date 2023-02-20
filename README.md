@@ -15,11 +15,11 @@
 Los perfiles de usuario que maneja el sistema son: 
 <br>
 
-### SUPERADMMINISTRADOR
+### Funciones del usuario SUPERADMINISTRADOR
 
-### ADMINISTRADOR
+### Funciones del usuario ADMINISTRADOR
 
-### EMPRENDENDOR
+### Funciones del usuario EMPRENDENDOR
 
 ## MÉTODOS Y FUNCIONALIDADES
 
