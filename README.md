@@ -4,6 +4,8 @@
         <br>
         <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
         <br>
+        <img src="https://res.cloudinary.com/dm0qsdpr8/image/upload/v1676925059/emprende/Logo_EmPreNde_aon6qq.ai" alt="Logo" width="80" height="80">
+        
     </h1> 
     <p align="center">Elaborado por: María José Chalá</p>
  </p>
