@@ -1,12 +1,12 @@
 <p align="center">
+    <a>
+        <img src="https://res.cloudinary.com/dm0qsdpr8/image/upload/v1676925274/emprende/Logo-EmPreNde---ESFOT_ftiitm.png" alt="Logo" width="180" height="120">
+    </a>
     <h1 align="center">
         Aplicación web para la promoción de emprendimientos de la comunidad ESFOT
         <br>
         <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
         <br>
-        <a>
-        <img src="https://res.cloudinary.com/dm0qsdpr8/image/upload/v1676925274/emprende/Logo-EmPreNde---ESFOT_ftiitm.png" alt="Logo" width="180" height="120">
-        </a>
     </h1> 
     <p align="center">Elaborado por: María José Chalá</p>
  </p>
