@@ -79,7 +79,7 @@ Las funcionalidades a las que puede acceder el usuario administrador son:
     <li>Administrar información de las videoconferencias</li>
 </ul>
 
-### Funcionalidades del usuario EMPRENDENDOR
+> ### Funcionalidades del usuario EMPRENDEDOR
 
 El usuario emprendedor podrá solicitar que se publique la información de su emprendimiento, además podrá visualizar la información de emprendimientos y videoconferencias almacenados 
 
@@ -87,8 +87,8 @@ El usuario emprendedor podrá solicitar que se publique la información de su em
 
 El acceso al componente backend se lo realiza a través del siguiente enlace.
 <br>
-<p align="center"><a href="https://github.com/othneildrew/Best-README-Template"><strong>Acceso al backend »</strong></a></p>
-## TÍTULO ...
+<p align="center"><a href="https://backend-emprende.herokuapp.com/api/comision-emprende"><strong>Acceso al backend »</strong></a></p>
+
 
 
 
