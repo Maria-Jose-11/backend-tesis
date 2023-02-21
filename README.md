@@ -24,7 +24,8 @@ El presente proyecto contiene el desarrollo del componente backend de la aplicac
     <li>
       <a href="#perfiles-de-usuario">Perfiles de usuario</a>
       <ul>
-        <li><a href="#funcionalidades-de-usuario-superadministrador">Built With</a></li>
+        <li><a href="#funcionalidades-del-usuario-superadministrador">Funcionalidades del usuario superadministrador</a></li>
+          <li><a href="#funcionalidades-del-usuario-administrador">Funcionalidades del usuario administrador</a></li>
       </ul>
     </li>
     <li>
@@ -68,7 +69,7 @@ Como parte de las funcionalidades a las que puede acceder el usuario superadmini
 </ul>
 <br>
 
-### Funciones del usuario ADMINISTRADOR
+### Funcionalidades del usuario ADMINISTRADOR
 
 Las funcionalidades a las que puede acceder el usuario administrador son:
 <br>
