@@ -2,7 +2,6 @@
     <a>
         <img src="https://res.cloudinary.com/dm0qsdpr8/image/upload/v1676925274/emprende/Logo-EmPreNde---ESFOT_ftiitm.png" alt="Logo" width="180" height="100">
     </a>
-    <p>Elaborado por: María José Chalá</p>
     <h1 align="center">
         Aplicación web para la promoción de emprendimientos de la comunidad ESFOT
         <br>
@@ -11,7 +10,7 @@
     </h1> 
  </p>
 
-## PERFILES DE USUARIO
+# Perfiles de usuario
 
 Los perfiles de usuario que maneja el sistema son: 
 <br>
@@ -54,3 +53,6 @@ El usuario emprendedor podrá solicitar que se publique la información de su em
 ## TÍTULO ...
 
 * [![EPN][epn.edu.ec]][EPN-url]
+
+
+<p align="rigth">Elaborado por: María José Chalá</p>
