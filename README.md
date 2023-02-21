@@ -19,9 +19,11 @@ El presente proyecto contiene el desarrollo del componente backend de la aplicac
 Los perfiles de usuario que maneja el sistema son: 
 
 <br>
-<a align="center">
-    <img src="https://res.cloudinary.com/dm0qsdpr8/image/upload/v1676952977/github_emprende/Captura_de_pantalla_1276_n0xsxj.png" alt="Logo" width="700" height="500">
-</a>
+<p align="center">
+    <a>
+        <img src="https://res.cloudinary.com/dm0qsdpr8/image/upload/v1676952977/github_emprende/Captura_de_pantalla_1276_n0xsxj.png" alt="Logo" width="700"         height="500">
+    </a>
+ </p>
 <br>
 
 ### Funcionalidades del usuario SUPERADMINISTRADOR
@@ -35,7 +37,6 @@ Como parte de las funcionalidades a las que puede acceder el usuario superadmini
     <li>Administrar información de las videoconferencias</li>
 </ul>
 <br>
-<br>
 
 ### Funciones del usuario ADMINISTRADOR
 
@@ -45,9 +46,7 @@ Las funcionalidades a las que puede acceder el usuario administrador son:
     <li>Iniciar sesión en el sistema.</li>
     <li>Administrar información de los emprendimientos</li>
     <li>Administrar información de las videoconferencias</li>
-    <li>Valoración</li>
 </ul>
-<br>
 <br>
 
 ### Funciones del usuario EMPRENDENDOR
@@ -56,7 +55,6 @@ El usuario emprendedor podrá solicitar que se publique la información de su em
 
 ## MÉTODOS Y FUNCIONALIDADES
 
-<br>
 <br>
 
 ## TÍTULO ...
