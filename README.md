@@ -8,6 +8,7 @@
 <h1 align="center">
     Aplicación web para la promoción de emprendimientos de la comunidad ESFOT<br><br>Componente Backend
 </h1>
+<br>
 
 El presente proyecto contiene el desarrollo del componente backend de la aplicación web para la promoción de emprendimientos de la comunidad ESFOT, en donde se implementó la lógica para el almacenamiento y administración de la información registrada.
 
