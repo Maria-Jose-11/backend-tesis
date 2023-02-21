@@ -58,7 +58,7 @@ Los perfiles de usuario que maneja el sistema son:
  </p>
 <br>
 
-### Funcionalidades del usuario SUPERADMINISTRADOR
+> ### Funcionalidades del usuario SUPERADMINISTRADOR
 
 Como parte de las funcionalidades a las que puede acceder el usuario superadministrador se tienen:
 <br>
@@ -69,7 +69,8 @@ Como parte de las funcionalidades a las que puede acceder el usuario superadmini
     <li>Administrar información de las videoconferencias</li>
 </ul>
 
-### Funcionalidades del usuario ADMINISTRADOR
+
+> ### Funcionalidades del usuario ADMINISTRADOR
 
 Las funcionalidades a las que puede acceder el usuario administrador son:
 <br>
@@ -78,6 +79,7 @@ Las funcionalidades a las que puede acceder el usuario administrador son:
     <li>Administrar información de los emprendimientos</li>
     <li>Administrar información de las videoconferencias</li>
 </ul>
+
 
 > ### Funcionalidades del usuario EMPRENDEDOR
 
