@@ -1,13 +1,13 @@
-<h1 align="center">
-    Aplicación web para la promoción de emprendimientos de la comunidad ESFOT</b>
-</h1>
-
 <p align="center">
     <a>
         <img src="https://res.cloudinary.com/dm0qsdpr8/image/upload/v1676925274/emprende/Logo-EmPreNde---ESFOT_ftiitm.png" alt="Logo" width="180" height="100">
     </a>
     <br>
  </p>
+
+<h1 align="center">
+    Aplicación web para la promoción de emprendimientos de la comunidad ESFOT</b>
+</h1>
 
 # Perfiles de usuario
 
