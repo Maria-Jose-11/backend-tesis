@@ -8,14 +8,16 @@
 <h1 align="center">
     Aplicación web para la promoción de emprendimientos de la comunidad ESFOT<br><br>Componente Backend
 </h1>
-<br>
 
+El presente proyecto contiene el desarrollo del componente backend de la aplicación web para la promoción de emprendimientos de la comunidad ESFOT, en donde se implementó la lógica para el almacenamiento y administración de la información registrada.
+
+<br>
 # Perfiles de usuario
 
 Los perfiles de usuario que maneja el sistema son: 
 
 <br>
-<a>
+<a align="center">
     <img src="https://res.cloudinary.com/dm0qsdpr8/image/upload/v1676952977/github_emprende/Captura_de_pantalla_1276_n0xsxj.png" alt="Logo" width="700" height="500">
 </a>
 <br>
