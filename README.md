@@ -16,7 +16,7 @@
 
 <!-- TABLA DE CONTENIDO -->
 <details>
-    <b>Tabla de contenido</b>
+    <summary><b>Tabla de contenido</b></summary>
     <br>
   <ol>
     <li>
