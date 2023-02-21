@@ -19,8 +19,10 @@
     <summary><b>Tabla de contenido</b></summary>
     <br>
   <ol>
-    <li>
+      <li>
       <a href="#sobre-el-proyecto">Sobre el proyecto</a>
+    </li>
+    <li>
       <a href="#perfiles-de-usuario">Perfiles de usuario</a>
       <ul>
         <li><a href="#funcionalidades-del-usuario-superadministrador">Funcionalidades del usuario superadministrador</a></li>
