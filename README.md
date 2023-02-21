@@ -2,25 +2,21 @@
     <a>
         <img src="https://res.cloudinary.com/dm0qsdpr8/image/upload/v1676925274/emprende/Logo-EmPreNde---ESFOT_ftiitm.png" alt="Logo" width="180" height="100">
     </a>
+    <p>Elaborado por: María José Chalá</p>
     <h1 align="center">
         Aplicación web para la promoción de emprendimientos de la comunidad ESFOT
         <br>
         //<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
         <br>
     </h1> 
-    <p align="center">Elaborado por: María José Chalá</p>
  </p>
 
 ## PERFILES DE USUARIO
 
 Los perfiles de usuario que maneja el sistema son: 
 <br>
+![image](https://user-images.githubusercontent.com/74751902/220251113-60c5383e-6a19-469a-9a7a-06898f4d8a5d.png)
 
-<div align="center">
-  <a>
-    <img src="https://res.cloudinary.com/dm0qsdpr8/image/upload/v1676952977/github_emprende/Captura_de_pantalla_1276_n0xsxj.png" alt="Logo" width="800" height="500">
-  </a>
-</div>
 
 
 ### Funcionalidades del usuario SUPERADMINISTRADOR
