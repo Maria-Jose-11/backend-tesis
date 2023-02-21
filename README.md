@@ -10,9 +10,9 @@
 </h1>
 <br>
 
-<h3 align="center">
+<h1 align="center">
     Componente Backend
-</h3>
+</h1>
 <br>
 <p align="center">Elaborado por: María José Chalá</p>
 <p align="center">2022-2023</p>
