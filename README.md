@@ -7,9 +7,7 @@
 <br>
 
 <p align="center" font=7>
-  <FONT SIZE=15>
       <b>Aplicación web para la promoción de emprendimientos de la comunidad ESFOT</b>
-  </FONT>
  </p>
 
 # Perfiles de usuario
