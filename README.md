@@ -6,7 +6,7 @@
  </p>
 <br>
 
-<p align="center" style="font-size:10vw">
+<p align="center" style="font-size:50px">
       <b>Aplicación web para la promoción de emprendimientos de la comunidad ESFOT</b>
  </p>
 
