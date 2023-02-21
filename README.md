@@ -7,8 +7,8 @@
         <br>
         //<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
         <br>
-        <p align="center">Elaborado por: María José Chalá</p>
     </h1> 
+    <p align="center">Elaborado por: María José Chalá</p>
  </p>
 
 ## PERFILES DE USUARIO
@@ -23,19 +23,32 @@ Los perfiles de usuario que maneja el sistema son:
 </div>
 
 
-### Funciones del usuario SUPERADMINISTRADOR
+### Funcionalidades del usuario SUPERADMINISTRADOR
 
-![image](https://user-images.githubusercontent.com/74751902/220190785-e50b1bec-c94a-4c5a-80d7-8d4494f27fef.png)
+Como parte de las funcionalidades a las que puede acceder el usuario superadministrador se tienen:
+
+<ul>
+    <li>Iniciar sesión en el sistema.</li>
+    <li>Administrar información de usuarios tanto superadministradores como administradores</li>
+    <li>Administrar información de los emprendimientos</li>
+    <li>Administrar información de las videoconferencias</li>
+    <li>Valoración</li>
+</ul>
 
 ### Funciones del usuario ADMINISTRADOR
 
-![image](https://user-images.githubusercontent.com/74751902/220190837-e844c16f-c610-4f25-9a95-bdf77ee8655a.png)
+Las funcionalidades a las que puede acceder el usuario administrador son:
 
+<ul>
+    <li>Iniciar sesión en el sistema.</li>
+    <li>Administrar información de los emprendimientos</li>
+    <li>Administrar información de las videoconferencias</li>
+    <li>Valoración</li>
+</ul>
 
 ### Funciones del usuario EMPRENDENDOR
 
-![image](https://user-images.githubusercontent.com/74751902/220190906-d9093938-320e-4911-80bc-a95db283b84e.png)
-
+El usuario emprendedor podrá solicitar que se publique la información de su emprendimiento, además podrá visualizar la información de emprendimientos y videoconferencias almacenados 
 
 ## MÉTODOS Y FUNCIONALIDADES
 
@@ -43,3 +56,5 @@ Los perfiles de usuario que maneja el sistema son:
 <br>
 
 ## TÍTULO ...
+
+* [![EPN][epn.edu.ec]][EPN-url]
