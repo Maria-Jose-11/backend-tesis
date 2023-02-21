@@ -12,6 +12,7 @@
 El presente proyecto contiene el desarrollo del componente backend de la aplicación web para la promoción de emprendimientos de la comunidad ESFOT, en donde se implementó la lógica para el almacenamiento y administración de la información registrada.
 
 <br>
+
 # Perfiles de usuario
 
 Los perfiles de usuario que maneja el sistema son: 
