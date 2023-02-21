@@ -18,10 +18,10 @@ El presente proyecto contiene el desarrollo del componente backend de la aplicac
 
 <!-- TABLA DE CONTENIDO -->
 <details>
-  <summary>Table of Contents</summary>
+  <summary>Tabla de contenido</summary>
   <ol>
     <li>
-      <a href="#perfiles">Perfiles de usuario</a>
+      <a href="#Perfiles">Perfiles de usuario</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
       </ul>
