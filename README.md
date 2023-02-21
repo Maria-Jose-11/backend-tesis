@@ -2,16 +2,13 @@
     <a>
         <img src="https://res.cloudinary.com/dm0qsdpr8/image/upload/v1676925274/emprende/Logo-EmPreNde---ESFOT_ftiitm.png" alt="Logo" width="180" height="100">
     </a>
-    //<h1 align="center">
       <FONT SIZE=5>
         Aplicación web para la promoción de emprendimientos de la comunidad ESFOT
       </FONT>
         <br>
         //<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
         <br>
-    //</h1> 
  </p>
-<br>
 <br>
 
 # Perfiles de usuario
