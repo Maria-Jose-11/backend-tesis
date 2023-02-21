@@ -6,9 +6,16 @@
  </p>
 
 <h1 align="center">
-    Aplicación web para la promoción de emprendimientos de la comunidad ESFOT<br><br>Componente Backend
+    Aplicación web para la promoción de emprendimientos de la comunidad ESFOT<br><br>
 </h1>
 <br>
+
+<h3 align="center">
+    Componente Backend
+</h3>
+<br>
+<p align="center">Elaborado por: María José Chalá</p>
+<p align="center">2022-2023</p>
 
 El presente proyecto contiene el desarrollo del componente backend de la aplicación web para la promoción de emprendimientos de la comunidad ESFOT, en donde se implementó la lógica para el almacenamiento y administración de la información registrada.
 
@@ -61,4 +68,4 @@ El usuario emprendedor podrá solicitar que se publique la información de su em
 
 
 
-<p align="right">Elaborado por: María José Chalá</p>
+
