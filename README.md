@@ -13,15 +13,13 @@
 <p align="center"><b>Elaborado por:</b> María José Chalá</p>
 <p align="center"><b>2022-2023</b></p>
 
-El presente proyecto contiene el desarrollo del componente backend de la aplicación web para la promoción de emprendimientos de la comunidad ESFOT, en donde se implementó la lógica para el almacenamiento y administración de la información registrada.
-<br>
-
 <!-- TABLA DE CONTENIDO -->
 <details>
   <summary>Tabla de contenido</summary>
     <br>
   <ol>
     <li>
+      <a href="#sobre-el-proyecto">Sobre el proyecto</a>
       <a href="#perfiles-de-usuario">Perfiles de usuario</a>
       <ul>
         <li><a href="#funcionalidades-del-usuario-superadministrador">Funcionalidades del usuario superadministrador</a></li>
@@ -45,6 +43,10 @@ El presente proyecto contiene el desarrollo del componente backend de la aplicac
   </ol>
 </details>
 
+# Sobre el proyecto
+
+El presente proyecto contiene el desarrollo del componente backend de la aplicación web para la promoción de emprendimientos de la comunidad ESFOT, en donde se implementó la lógica para el almacenamiento y administración de la información registrada.
+<br>
 
 # Perfiles de usuario
 
@@ -58,7 +60,7 @@ Los perfiles de usuario que maneja el sistema son:
  </p>
 <br>
 
-> ### Funcionalidades del usuario SUPERADMINISTRADOR
+### Funcionalidades del usuario SUPERADMINISTRADOR
 
 Como parte de las funcionalidades a las que puede acceder el usuario superadministrador se tienen:
 <br>
@@ -68,9 +70,9 @@ Como parte de las funcionalidades a las que puede acceder el usuario superadmini
     <li>Administrar información de los emprendimientos</li>
     <li>Administrar información de las videoconferencias</li>
 </ul>
+<br>
 
-
-> ### Funcionalidades del usuario ADMINISTRADOR
+### Funcionalidades del usuario ADMINISTRADOR
 
 Las funcionalidades a las que puede acceder el usuario administrador son:
 <br>
@@ -79,9 +81,9 @@ Las funcionalidades a las que puede acceder el usuario administrador son:
     <li>Administrar información de los emprendimientos</li>
     <li>Administrar información de las videoconferencias</li>
 </ul>
+<br>
 
-
-> ### Funcionalidades del usuario EMPRENDEDOR
+### Funcionalidades del usuario EMPRENDEDOR
 
 El usuario emprendedor podrá solicitar que se publique la información de su emprendimiento, además podrá visualizar la información de emprendimientos y videoconferencias almacenados 
 
