@@ -6,14 +6,10 @@
  </p>
 
 <h1 align="center">
-    Aplicación web para la promoción de emprendimientos de la comunidad ESFOT<br><br>
+    Aplicación web para la promoción de emprendimientos de la comunidad ESFOT<br><br>Componente Backend
 </h1>
 <br>
 
-<h1 align="center">
-    Componente Backend
-</h1>
-<br>
 <p align="center">Elaborado por: María José Chalá</p>
 <p align="center">2022-2023</p>
 
