@@ -6,8 +6,12 @@
  </p>
 
 <h1 align="center">
-    Aplicación web para la promoción de emprendimientos de la comunidad ESFOT</b>
+    Aplicación web para la promoción de emprendimientos de la comunidad ESFOT
 </h1>
+<br>
+<h3 align="center">
+    Componente Backend
+</h3>
 
 # Perfiles de usuario
 
