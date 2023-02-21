@@ -29,7 +29,7 @@
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
+      <a href="#acceso-al-componente-backend">Acceso al componente backend</a>
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
@@ -44,9 +44,12 @@
   </ol>
 </details>
 
+<br>
+
 # Sobre el proyecto
 
 El presente proyecto contiene el desarrollo del componente backend de la aplicación web para la promoción de emprendimientos de la comunidad ESFOT, en donde se implementó la lógica para el almacenamiento y administración de la información registrada.
+<br>
 <br>
 
 # Perfiles de usuario
@@ -59,6 +62,7 @@ Los perfiles de usuario que maneja el sistema son:
         <img src="https://res.cloudinary.com/dm0qsdpr8/image/upload/v1676952977/github_emprende/Captura_de_pantalla_1276_n0xsxj.png" alt="Logo" width="700"         height="500">
     </a>
  </p>
+<br>
 <br>
 
 ### Funcionalidades del usuario SUPERADMINISTRADOR
@@ -88,6 +92,8 @@ Las funcionalidades a las que puede acceder el usuario administrador son:
 
 El usuario emprendedor podrá solicitar que se publique la información de su emprendimiento, además podrá visualizar la información de emprendimientos y videoconferencias almacenados 
 
+<br>
+<br>
 # Acceso al componente backend
 
 El acceso al componente backend se lo realiza a través del siguiente enlace.
