@@ -17,7 +17,6 @@ Los perfiles de usuario que maneja el sistema son:
 ![image](https://user-images.githubusercontent.com/74751902/220251113-60c5383e-6a19-469a-9a7a-06898f4d8a5d.png)
 
 
-
 ### Funcionalidades del usuario SUPERADMINISTRADOR
 
 Como parte de las funcionalidades a las que puede acceder el usuario superadministrador se tienen:
@@ -52,7 +51,6 @@ El usuario emprendedor podrá solicitar que se publique la información de su em
 
 ## TÍTULO ...
 
-* [![EPN][epn.edu.ec]][EPN-url]
 
 
-<p align="rigth">Elaborado por: María José Chalá</p>
+<p align="right">Elaborado por: María José Chalá</p>
