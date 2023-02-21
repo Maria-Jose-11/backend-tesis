@@ -6,9 +6,9 @@
  </p>
 <br>
 
-<h1 align="center" style="font-size:50px">
-      ### Aplicación web para la promoción de emprendimientos de la comunidad ESFOT</b>
- </h1>
+<h1 align="center">
+    Aplicación web para la promoción de emprendimientos de la comunidad ESFOT</b>
+</h1>
 
 
 # Perfiles de usuario
