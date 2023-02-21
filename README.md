@@ -114,7 +114,7 @@ El acceso al componente backend se lo realiza a través del siguiente enlace.
  
  Para visualizar las funcionalidades y módulos implementados en este componente, ...
  
- <p align="center"><a href=" https://youtu.be/DjzVY0aQY88"><strong>Video explicativo »</strong></a></p>
+ <p align="center"><a href="https://youtu.be/DjzVY0aQY88"><strong>Video explicativo »</strong></a></p>
 
 
 
