@@ -25,7 +25,8 @@ El presente proyecto contiene el desarrollo del componente backend de la aplicac
       <a href="#perfiles-de-usuario">Perfiles de usuario</a>
       <ul>
         <li><a href="#funcionalidades-del-usuario-superadministrador">Funcionalidades del usuario superadministrador</a></li>
-          <li><a href="#funcionalidades-del-usuario-administrador">Funcionalidades del usuario administrador</a></li>
+        <li><a href="#funcionalidades-del-usuario-administrador">Funcionalidades del usuario administrador</a></li>
+        <li><a href="#funcionalidades-del-usuario-emprendedor">Funcionalidades del usuario emprendedor</a></li>
       </ul>
     </li>
     <li>
@@ -67,7 +68,6 @@ Como parte de las funcionalidades a las que puede acceder el usuario superadmini
     <li>Administrar información de los emprendimientos</li>
     <li>Administrar información de las videoconferencias</li>
 </ul>
-<br>
 
 ### Funcionalidades del usuario ADMINISTRADOR
 
@@ -78,16 +78,16 @@ Las funcionalidades a las que puede acceder el usuario administrador son:
     <li>Administrar información de los emprendimientos</li>
     <li>Administrar información de las videoconferencias</li>
 </ul>
-<br>
 
-### Funciones del usuario EMPRENDENDOR
+### Funcionalidades del usuario EMPRENDENDOR
 
 El usuario emprendedor podrá solicitar que se publique la información de su emprendimiento, además podrá visualizar la información de emprendimientos y videoconferencias almacenados 
 
-## MÉTODOS Y FUNCIONALIDADES
+# Acceso al componente backend
 
+El acceso al componente backend se lo realiza a través del siguiente enlace.
 <br>
-
+<p align="center"><a href="https://github.com/othneildrew/Best-README-Template"><strong>Acceso al backend »</strong></a></p>
 ## TÍTULO ...
 
 
