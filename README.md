@@ -19,11 +19,12 @@ El presente proyecto contiene el desarrollo del componente backend de la aplicac
 <!-- TABLA DE CONTENIDO -->
 <details>
   <summary>Tabla de contenido</summary>
+    <br>
   <ol>
     <li>
-      <a href="#Perfiles">Perfiles de usuario</a>
+      <a href="#perfiles-de-usuario">Perfiles de usuario</a>
       <ul>
-        <li><a href="#built-with">Built With</a></li>
+        <li><a href="#funcionalidades-de-usuario-superadministrador">Built With</a></li>
       </ul>
     </li>
     <li>
