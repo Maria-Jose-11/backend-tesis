@@ -18,7 +18,7 @@ Los perfiles de usuario que maneja el sistema son:
 
 <div align="center">
   <a>
-    <img src="https://res.cloudinary.com/dm0qsdpr8/image/upload/v1676952977/github_emprende/Captura_de_pantalla_1276_n0xsxj.png" alt="Logo" width="1200" height="500">
+    <img src="https://res.cloudinary.com/dm0qsdpr8/image/upload/v1676952977/github_emprende/Captura_de_pantalla_1276_n0xsxj.png" alt="Logo" width="800" height="500">
   </a>
 </div>
 
