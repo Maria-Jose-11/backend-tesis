@@ -6,11 +6,10 @@
  </p>
 <br>
 
-<p align="center" style="font-size:50px">
+<h3 align="center" style="font-size:50px">
       <b>Aplicación web para la promoción de emprendimientos de la comunidad ESFOT</b>
- </p>
+ </h3>
 
-<h1 style="font-size:10vw">Hello World</h1>
 
 # Perfiles de usuario
 
