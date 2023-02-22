@@ -97,7 +97,10 @@ En el video a continuación se presenta la explicación a detalle de este compon
 <br>
 <p align="center"><a href="https://youtu.be/DjzVY0aQY88" target="_blank"><strong>Video explicativo »</strong></a></p>
 <br>
-# 
+<br>
+<br>
+<br>
+<br>
 <p align="center"><b>Elaborado por:</b> María José Chalá</p>
 <p align="center"><b>2022-2023</b></p>
 <br>
