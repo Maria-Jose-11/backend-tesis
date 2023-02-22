@@ -99,14 +99,14 @@ El usuario emprendedor podrá solicitar que se publique la información de su em
 
 El acceso al componente backend se lo realiza a través del siguiente enlace.
 <br>
-<p align="center"><a href="https://backend-emprende.herokuapp.com/comision-emprende"><strong>Acceso al componente backend »</strong></a></p>
+<p align="center"><a href="https://backend-emprende.herokuapp.com/comision-emprende" target="_blank"><strong>Acceso al componente backend »</strong></a></p>
 <br>
 
  # Video explicativo del funcionamiento
 
 En el video a continuación se presenta la explicación a detalle de este componente.
 <br>
-<p align="center"><a href="https://youtu.be/DjzVY0aQY88"><strong>Video explicativo »</strong></a></p>
+<p align="center"><a href="https://youtu.be/DjzVY0aQY88" target="_blank"><strong>Video explicativo »</strong></a></p>
 
 
 
