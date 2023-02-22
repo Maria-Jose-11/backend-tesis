@@ -34,7 +34,7 @@
       <a href="#acceso-al-componente-backend">Acceso al componente backend</a>
     </li>
     <li>
-        <a href="#video-explicativo-del-funcionamient">Video explicativo del funcionamiento</a>
+        <a href="#video-explicativo-del-funcionamiento">Video explicativo del funcionamiento</a>
      </li>
   </ol>
 </details>
