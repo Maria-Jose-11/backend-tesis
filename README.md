@@ -35,7 +35,6 @@
   </ol>
 </details>
 
-<br>
 
 # Sobre el proyecto
 
@@ -99,8 +98,6 @@ El acceso al componente backend se lo realiza a través del siguiente enlace.
 En el video a continuación se presenta la explicación a detalle de este componente.
 <br>
 <p align="center"><a href="https://youtu.be/DjzVY0aQY88" target="_blank"><strong>Video explicativo »</strong></a></p>
-
-https://www.youtube.com/watch?v=DjzVY0aQY88&ab_channel=Mar%C3%ADaJos%C3%A9Chal%C3%A1
 
 <br>
 <br>
