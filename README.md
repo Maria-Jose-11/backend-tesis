@@ -100,7 +100,8 @@ En el video a continuación se presenta la explicación a detalle de este compon
 <br>
 <p align="center"><a href="https://youtu.be/DjzVY0aQY88" target="_blank"><strong>Video explicativo »</strong></a></p>
 
-https://youtu.be/DjzVY0aQY88
+https://www.youtube.com/watch?v=DjzVY0aQY88&ab_channel=Mar%C3%ADaJos%C3%A9Chal%C3%A1
+
 <br>
 <br>
 <br>
