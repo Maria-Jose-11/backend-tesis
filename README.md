@@ -99,6 +99,8 @@ El acceso al componente backend se lo realiza a través del siguiente enlace.
 En el video a continuación se presenta la explicación a detalle de este componente.
 <br>
 <p align="center"><a href="https://youtu.be/DjzVY0aQY88" target="_blank"><strong>Video explicativo »</strong></a></p>
+
+https://youtu.be/DjzVY0aQY88
 <br>
 <br>
 <br>
