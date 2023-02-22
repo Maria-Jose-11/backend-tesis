@@ -91,6 +91,9 @@ El acceso al componente backend se lo realiza a través del siguiente enlace.
 <p align="center"><a href="https://backend-emprende.herokuapp.com/comision-emprende" target="_blank"><strong>Acceso al componente backend »</strong></a></p>
 <br>
 
+![image](https://user-images.githubusercontent.com/74751902/220541040-cefe38bc-3cf6-42d9-b137-af6d81b7fa7f.png)
+
+
  # Video explicativo del funcionamiento
 
 En el video a continuación se presenta la explicación a detalle de este componente.
