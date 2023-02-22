@@ -52,7 +52,6 @@
 
 El presente proyecto contiene el desarrollo del componente backend de la aplicación web para la promoción de emprendimientos de la comunidad ESFOT, en donde se implementó la lógica para el almacenamiento y administración de la información registrada.
 <br>
-<br>
 
 # Perfiles de usuario
 
@@ -64,7 +63,6 @@ Los perfiles de usuario que maneja el sistema son:
         <img src="https://res.cloudinary.com/dm0qsdpr8/image/upload/v1676952977/github_emprende/Captura_de_pantalla_1276_n0xsxj.png" alt="Logo" width="700"         height="500">
     </a>
  </p>
-<br>
 <br>
 
 ### Funcionalidades del usuario SUPERADMINISTRADOR
@@ -101,20 +99,14 @@ El usuario emprendedor podrá solicitar que se publique la información de su em
 
 El acceso al componente backend se lo realiza a través del siguiente enlace.
 <br>
-<p align="center"><a href="https://backend-emprende.herokuapp.com/api/comision-emprende"><strong>Acceso al backend »</strong></a></p>
+<p align="center"><a href="https://backend-emprende.herokuapp.com/comision-emprende"><strong>Acceso al componente backend »</strong></a></p>
 <br>
-<p align="center">
-    <a>
-        <img src="https://res.cloudinary.com/dm0qsdpr8/image/upload/v1676925274/emprende/Logo-EmPreNde---ESFOT_ftiitm.png" alt="Logo" width="180" height="100">
-    </a>
-    <br>
- </p>
- 
+
  # Video explicativo del funcionamiento
- 
- Para visualizar las funcionalidades y módulos implementados en este componente, ...
- 
- <p align="center"><a href="https://youtu.be/DjzVY0aQY88"><strong>Video explicativo »</strong></a></p>
+
+En el video a continuación se presenta la explicación a detalle de este componente.
+<br>
+<p align="center"><a href="https://youtu.be/DjzVY0aQY88"><strong>Video explicativo »</strong></a></p>
 
 
 
