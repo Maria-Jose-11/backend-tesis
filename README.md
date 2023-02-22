@@ -4,9 +4,8 @@
     </a>
     <br>
  </p>
-<br>
 <h1 align="center">
-    Aplicación web para la promoción de emprendimientos de la comunidad ESFOT<br><br>Componente Backend
+    Aplicación web para la promoción de emprendimientos de la comunidad ESFOT<br>Componente Backend
 </h1>
 <br>
 
