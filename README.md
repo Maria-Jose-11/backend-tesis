@@ -104,7 +104,7 @@ En el video a continuación se presenta la explicación a detalle de este compon
 <br>
 <br>
 <p align="right"><b>Elaborado por:</b> María José Chalá</p>
-<p align="rigth"><b>2022-2023</b></p>
+<p align="right"><b>2022-2023</b></p>
 <br>
 
 
